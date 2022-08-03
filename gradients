@@ -1,0 +1,56 @@
+#F6D327
+#76DAFF
+#FFCD00
+#FF0000
+#FDB813
+#000000
+#003B64
+#FFF200
+#f4ea5d-
+
+<i class="fa-solid fa-apple-whole"></i>
+
+
+<i class="fa-duotone fa-salad"></i>
+<i class="fa-duotone fa-person-chalkboard"></i>
+<i class="fa-thin fa-person-chalkboard"></i>
+<i class="fa-solid fa-chalkboard-user"></i>
+<i class="fa-solid fa-lightbulb-on"></i>
+<i class="fa-solid fa-graduation-cap"></i>
+<i class="fa-solid fa-school"></i>
+<i class="fa-duotone fa-school"></i>
+<i class="fa-brands fa-instagram"></i>
+<i class="fa-brands fa-facebook-messenger"></i>
+<i class="fa-thin fa-calculator"></i>
+
+
+<div id="testimonial-carousel" class="coursal slide" data-ride="false">
+  <div class="carousel-inner">
+    <div class="carousel-item-active" style="background-color: red;">
+      <h2>We have produced great scholars who graduated and are prospering in their universities and some who have finished service and are successful in life.</h2>
+      <img class="testimonial image"src="" alt="">
+      <em></em>
+
+    </div>
+    <div class="carousel-item" style="background-color: yellow;">
+
+      <h2 class="testimonial-text">My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.</h2>
+      <img class="testimonial-image" src="images/lady-img.jpg" alt="lady-profile">
+      <em>Beverly, Illinois</em>
+
+    </div>
+     <div class="carousel-item" style="background-color: blue">
+
+     </div>
+
+  </div>
+<a class="carousel-control-prev" href="#testimonial-carousel" role="button" data-slide="prev"></a>
+ <span class="carousel-control-prev-icon"></span>
+
+ <a class="carousel-control-next" href="#testimonial-carousel" role="button" data-slide="next">
+   <span class="carousel-control-next-icon"></span>
+ </a>
+
+ <video controls>
+   <source src="EPISODE 1.mp4" type="video/mp4">
+     </video>
